@@ -16,7 +16,17 @@ Aiming for roles in HFT, Big Tech, and Quantitative Systems
 
 - **Pharmaceutical Inventory System** — Built in Java using OOP principles; improved data integrity and report generation speed by 30%
 
-- **CubeSat Flight Software** — Developing custom apps for NASA cFS on a 12U CubeSat mission, with Jetson Orin onboard
+- **Code Analysis Tool (CAT)** — Built a C#/.NET tool with WPF UI to extract object-oriented metrics from Java codebases, streamlining software quality analysis for developers.
+
+---
+
+### Experience
+
+- **Undergraduate Research Assistant – Reinforcement Learning for Autonomous Driving** — Conducting research on SAC/DDPG-based RL agents to enable autonomous vehicle control in a Python-based driving simulator
+
+- **Software Developer – Research Assistant (Project COMET, NASA cFS)** — Developing flight software in C for a 12U CubeSat using NASA’s Core Flight System to support high-throughput mmWave inter-satellite communication
+
+- **Software Engineer Intern** — Built a Java-based platform for inventory and sales management, optimizing SQL queries and improving report generation speed by 30%
 
 ---
 
