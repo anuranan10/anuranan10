@@ -1,4 +1,4 @@
-# Hi, I'm Anuranan Bharadwaj 👋
+# Hi, I'm Anuranan Bharadwaj
 
 Aspiring Software Engineer | B.S. Aerospace Engineering '26 @ ERAU | CS Minor  
 Building tools at the intersection of code, systems, and real-world impact  
