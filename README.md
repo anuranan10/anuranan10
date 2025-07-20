@@ -22,15 +22,14 @@ Aiming for roles in HFT, Big Tech, and Quantitative Systems
 
 ### Links
 
-[Resume](https://your_resume_link_here)  
+[Resume](file:///C:/Users/anura/OneDrive%20-%20Embry-Riddle%20Aeronautical%20University/Desktop/RESUME/AnurananBharadwaj_RESUME_SE.pdf)  
 [LinkedIn](https://www.linkedin.com/in/anuranan-bharadwaj)  
-[Leetcode](https://leetcode.com/your_username_here)
+[Website](https://anuranan.info/)
 
 ---
 
 ### Interests
 
-- Leetcode + Competitive Programming
 - Reinforcement Learning Research
 - Full-Stack Development
 - HFT Systems, Distributed Computing, and Infrastructure
