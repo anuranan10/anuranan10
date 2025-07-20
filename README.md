@@ -22,7 +22,7 @@ Aiming for roles in HFT, Big Tech, and Quantitative Systems
 
 ### Links
 
-[Resume](file:///C:/Users/anura/OneDrive%20-%20Embry-Riddle%20Aeronautical%20University/Desktop/RESUME/AnurananBharadwaj_RESUME_SE.pdf)  
+[Resume](https://anuranan.info/AnurananBharadwaj_RESUME_SE.pdf)  
 [LinkedIn](https://www.linkedin.com/in/anuranan-bharadwaj)  
 [Website](https://anuranan.info/)
 
