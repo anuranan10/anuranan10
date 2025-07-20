@@ -14,7 +14,7 @@ Aiming for roles in HFT, Big Tech, and Quantitative Systems
 - **HFT Backtesting Engine** — Simulates intraday trading strategies with Bollinger Bands and RSI, includes risk management, optimization, and visual analytics  
   _Sharpe Ratio: 0.82 | Return: 15.6%_
 
-- **Pharmaceutical Inventory System** — Built in Java using OOP and SQL; improved data integrity and report generation speed by 30%
+- **Pharmaceutical Inventory System** — Built in Java using OOP principles; improved data integrity and report generation speed by 30%
 
 - **CubeSat Flight Software** — Developing custom apps for NASA cFS on a 12U CubeSat mission, with Jetson Orin onboard
 
